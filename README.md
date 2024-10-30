@@ -1,6 +1,4 @@
 # ThePagingApp
- 
-# ThePagingApp
 
 This Android application showcases popular movies by fetching data from the IMDb API and presenting it in a user-friendly, scrollable list. The app leverages the power of the **Paging Library** to optimize data requests and display, making it efficient and responsive. 
 
